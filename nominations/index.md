@@ -4,7 +4,7 @@ title: Award Nominations 2019
 ---
 
 ## Award categories
-- [Mr Squiggle Footpath Award](../footpath)
+- [Mr Squiggle Footpath Award](../queenslandtransportawards/footpath)
 - The Clem 7 Overengineered Road Award
 - The 'At Least it's Better than Hidden Valley' Subdivision Award
 - Worst Bike Lane Award
